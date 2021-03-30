@@ -1,0 +1,8 @@
+name: ChatColor-Changer
+main: me.newfarminghosting.nl.ccMain
+description: newfarminghosting custom plugin coded 
+version: 1.0.0
+author: NewFarmingHosting-Dev
+
+commands:
+  chatcolor:
